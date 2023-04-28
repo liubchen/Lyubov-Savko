@@ -2,7 +2,8 @@
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <h1>Обо мне</h1>
+  <h1>Портфолио: аналитик данных</h1>
+  <h2>Обо мне</h2>
  </head>
  <body> 
   <p><img src="https://github.com/liubchen/Lyubov-Savko/blob/main/Photo.JPG" width="200" 
