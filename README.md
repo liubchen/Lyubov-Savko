@@ -6,7 +6,7 @@
   <h2>Обо мне</h2>
  </head>
  <body> 
-  <p><img src="https://github.com/liubchen/Lyubov-Savko/blob/main/Photo.JPG" width="190" 
+  <p><img src="https://github.com/liubchen/Lyubov-Savko/blob/main/Photo.JPG" width="200" 
   alt="Иллюстрация" align="left" 
   vspace="5" hspace="5">
   Привет!
